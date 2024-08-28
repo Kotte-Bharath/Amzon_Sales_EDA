@@ -13,5 +13,5 @@ This project focuses on analyzing Amazon sales data for cosmetics and clothing. 
 ### To run this project locally, follow these steps:
 
 #### Clone the repository:
-###### git clone https://github.com/your-username/amazon-sales-analysis.git
-cd amazon-sales-analysis
+###### [git clone https://github.com/your-username/amazon-sales-analysis.git](https://github.com/Kotte-Bharath/Amzon_Sales_EDA.git)
+
